@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Desktop/PycharmProjects/Kostal_ML_Engineer/PyTorch-MLflow-Portfolio/mlruns/1/models/m-d6161816b0d74399a1f7238ff6d7df76/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.14.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.11.0+cpu
+mlflow_version: 3.11.1
+model_id: m-d6161816b0d74399a1f7238ff6d7df76
+model_size_bytes: 2801
+model_uuid: m-d6161816b0d74399a1f7238ff6d7df76
+prompts: null
+run_id: 5898d64c970745e98f661c63e7289115
+utc_time_created: '2026-07-20 14:34:34.740368'

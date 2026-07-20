@@ -1,0 +1,13 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+mlflow.db
+*.sqlite
+
+Temperatures-data-*.csv
+data/raw/
+
+.streamlit/
+.DS_Store
